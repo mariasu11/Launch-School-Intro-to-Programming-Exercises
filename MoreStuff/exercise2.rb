@@ -1,0 +1,1 @@
+#The program does no return anything because the call method is not invoked. It returns a Proc obect.
