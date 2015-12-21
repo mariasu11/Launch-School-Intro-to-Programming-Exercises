@@ -1,0 +1,1 @@
+# I like http://ruby-doc.org/ as it is organized well and contains examples. There is alos a search tool.

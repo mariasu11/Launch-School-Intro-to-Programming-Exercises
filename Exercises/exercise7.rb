@@ -1,0 +1,1 @@
+#An array is an ordered list of elements of any type. A hash is a list of key-value pairs.
